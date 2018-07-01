@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import Person from './Person/Person';
 
+import './newstyle.scss';
+
 class App extends Component {
 
   constructor(){
